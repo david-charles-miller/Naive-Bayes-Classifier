@@ -1,5 +1,4 @@
 # David Miller
-# 1001070927
 
 import numpy as np
 import sys
